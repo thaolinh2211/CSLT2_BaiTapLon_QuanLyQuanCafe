@@ -1,0 +1,15 @@
+D:\anh trai\CoffeeStore\bin\Debug\CoffeeStore.exe.config
+D:\anh trai\CoffeeStore\bin\Debug\CoffeeStore.exe
+D:\anh trai\CoffeeStore\bin\Debug\CoffeeStore.pdb
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.csproj.AssemblyReference.cache
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.csproj.SuggestedBindingRedirects.cache
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.frmLogin.resources
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.Properties.Resources.resources
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.csproj.GenerateResource.cache
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.csproj.CoreCompileInputs.cache
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.exe
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.pdb
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.frmThongTinCaNhan.resources
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.frmAdmin.resources
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.frmMain.resources
+D:\anh trai\CoffeeStore\obj\Debug\CoffeeStore.frmNhanVien.resources
